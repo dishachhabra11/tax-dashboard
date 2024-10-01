@@ -1,4 +1,3 @@
-# React-Disney-Clone
 ## Demo Link:
 [Demo](https://www.youtube.com/watch?v=MOtYV_I_0-o)
 
